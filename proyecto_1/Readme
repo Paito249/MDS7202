@@ -1,1 +1,5 @@
+Se recomienda correr en Colab.
+
+En caso de querer correr en VScode, se debe instalar lo contenido requirements.txt. A nosotras no nos corria la clase con el dataset, asumo por recursos del computador. 
+Además, se deben comentar las celdas que contienen comentarios de que son solo para el correcto funcionamiento en colab como !wget.
 
