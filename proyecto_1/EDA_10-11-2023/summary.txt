@@ -1,0 +1,85 @@
+Nombre: ID
+Tipo: int64
+Nulos: 0 correspondiente a 0.0%
+Únicos: 562 correspondiente a 56.2%
+Ceros: 0 
+Negativos: 0
+25%: 123.75 
+50%: 277.0 
+75%: 429.0 
+100%: 562.0
+Cantidad outliers: 0
+Min: 1
+Max: 562
+Promedio: 278.145
+
+Nombre: Name
+Tipo: object
+Nulos: 0 correspondiente a 0.0%
+Únicos: 560 correspondiente a 56.00000000000001%
+
+Nombre: Sex
+Tipo: object
+Nulos: 0 correspondiente a 0.0%
+Únicos: 2 correspondiente a 0.2%
+
+Nombre: Team
+Tipo: object
+Nulos: 0 correspondiente a 0.0%
+Únicos: 112 correspondiente a 11.200000000000001%
+
+Nombre: NOC
+Tipo: object
+Nulos: 0 correspondiente a 0.0%
+Únicos: 103 correspondiente a 10.299999999999999%
+
+Nombre: Games
+Tipo: object
+Nulos: 0 correspondiente a 0.0%
+Únicos: 46 correspondiente a 4.6%
+
+Nombre: Year
+Tipo: int64
+Nulos: 0 correspondiente a 0.0%
+Únicos: 33 correspondiente a 3.3000000000000003%
+Ceros: 0 
+Negativos: 0
+25%: 1964.0 
+50%: 1992.0 
+75%: 2004.0 
+100%: 2016.0
+Cantidad outliers: 5
+Min: 1900
+Max: 2016
+Promedio: 1983.044
+
+Nombre: Season
+Tipo: object
+Nulos: 0 correspondiente a 0.0%
+Únicos: 2 correspondiente a 0.2%
+
+Nombre: City
+Tipo: object
+Nulos: 0 correspondiente a 0.0%
+Únicos: 41 correspondiente a 4.1000000000000005%
+
+Nombre: Sport
+Tipo: object
+Nulos: 0 correspondiente a 0.0%
+Únicos: 45 correspondiente a 4.5%
+
+Nombre: Event
+Tipo: object
+Nulos: 0 correspondiente a 0.0%
+Únicos: 270 correspondiente a 27.0%
+
+Nombre: Medal
+Tipo: object
+Nulos: 888 correspondiente a 88.8%
+Únicos: 3 correspondiente a 0.3%
+
+Nombre: age-height-weight
+Tipo: object
+Nulos: 0 correspondiente a 0.0%
+Únicos: 776 correspondiente a 77.60000000000001%
+
