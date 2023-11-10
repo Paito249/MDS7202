@@ -1,85 +1,85 @@
 Nombre: ID
 Tipo: int64
 Nulos: 0 correspondiente a 0.0%
-Únicos: 562 correspondiente a 56.2%
+Ãšnicos: 12673 correspondiente a 93.48627913838891%
 Ceros: 0 
 Negativos: 0
-25%: 123.75 
-50%: 277.0 
-75%: 429.0 
-100%: 562.0
+25%: 34362.25 
+50%: 67918.5 
+75%: 102380.0 
+100%: 135570.0
 Cantidad outliers: 0
-Min: 1
-Max: 562
-Promedio: 278.145
+Min: 4
+Max: 135570
+Promedio: 68284.73812334021
 
 Nombre: Name
 Tipo: object
 Nulos: 0 correspondiente a 0.0%
-Únicos: 560 correspondiente a 56.00000000000001%
+Ãšnicos: 12665 correspondiente a 93.42726467984657%
 
 Nombre: Sex
 Tipo: object
 Nulos: 0 correspondiente a 0.0%
-Únicos: 2 correspondiente a 0.2%
+Ãšnicos: 2 correspondiente a 0.014753614635585718%
 
 Nombre: Team
 Tipo: object
 Nulos: 0 correspondiente a 0.0%
-Únicos: 112 correspondiente a 11.200000000000001%
+Ãšnicos: 429 correspondiente a 3.1646503393331367%
 
 Nombre: NOC
 Tipo: object
 Nulos: 0 correspondiente a 0.0%
-Únicos: 103 correspondiente a 10.299999999999999%
+Ãšnicos: 212 correspondiente a 1.5638831513720863%
 
 Nombre: Games
 Tipo: object
 Nulos: 0 correspondiente a 0.0%
-Únicos: 46 correspondiente a 4.6%
+Ãšnicos: 51 correspondiente a 0.3762171732074358%
 
 Nombre: Year
 Tipo: int64
 Nulos: 0 correspondiente a 0.0%
-Únicos: 33 correspondiente a 3.3000000000000003%
+Ãšnicos: 35 correspondiente a 0.2581882561227501%
 Ceros: 0 
 Negativos: 0
-25%: 1964.0 
-50%: 1992.0 
+25%: 1960.0 
+50%: 1988.0 
 75%: 2004.0 
 100%: 2016.0
-Cantidad outliers: 5
-Min: 1900
+Cantidad outliers: 0
+Min: 1896
 Max: 2016
-Promedio: 1983.044
+Promedio: 1978.5913248745942
 
 Nombre: Season
 Tipo: object
 Nulos: 0 correspondiente a 0.0%
-Únicos: 2 correspondiente a 0.2%
+Ãšnicos: 2 correspondiente a 0.014753614635585718%
 
 Nombre: City
 Tipo: object
 Nulos: 0 correspondiente a 0.0%
-Únicos: 41 correspondiente a 4.1000000000000005%
+Ãšnicos: 42 correspondiente a 0.3098259073473001%
 
 Nombre: Sport
 Tipo: object
 Nulos: 0 correspondiente a 0.0%
-Únicos: 45 correspondiente a 4.5%
+Ãšnicos: 61 correspondiente a 0.4499852463853644%
 
 Nombre: Event
 Tipo: object
 Nulos: 0 correspondiente a 0.0%
-Únicos: 270 correspondiente a 27.0%
+Ãšnicos: 647 correspondiente a 4.77279433461198%
 
 Nombre: Medal
 Tipo: object
-Nulos: 888 correspondiente a 88.8%
-Únicos: 3 correspondiente a 0.3%
+Nulos: 11612 correspondiente a 85.65948657421069%
+Ãšnicos: 3 correspondiente a 0.02213042195337858%
 
 Nombre: age-height-weight
 Tipo: object
 Nulos: 0 correspondiente a 0.0%
-Únicos: 776 correspondiente a 77.60000000000001%
+Ãšnicos: 9829 correspondiente a 72.50663912658601%
 
